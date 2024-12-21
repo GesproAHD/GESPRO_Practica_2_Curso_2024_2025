@@ -74,13 +74,19 @@ Una vez aquí simplemente seleccionaremos cada uno para ver que efectivamente se
   
 ### Filtrado por Tasks
   
-![image](https://github.com/user-attachments/assets/2a18c933-f30b-4b74-88c1-856a8b827cef)
+![image](https://github.com/user-attachments/assets/2a18c933-f30b-4b74-88c1-856a8b827cef)  
+Hay más Tasks de las que se muestran en la imagen pero para hacernos una idea de como funcionan los filtros estas mismas no han sido representadas  
 
+Me parece necesario indicar que estos filtros se comportan de manera acumulativa, es decir, podemos aplicar uno, dos o los que necesitemos. Por esto, es necesario estar atentos a la hora de filtrar nuestros resultados, ya que puede que al hacer demasiados filtros no logremos ver todos los resultados que desearíamos.  
+A continuación, haremos uso de Zenhub para tratar con las tareas y sus respectivas Releases y estados de las mismas
+# Tareas de 1er Release en el Sprint Backlog
+Nos posicionamos en Zenhub y, en la barra superior, seleccionamos la Milestone correspondiente a la primera Release para realizar un filtrado. Veremos que no estan asignadas a ningún evento ni artefacto, asi que las arrastramos a Sprint Backlog, quedandonos así:
+![image](https://github.com/user-attachments/assets/30b2f0b4-97d4-4263-ac5e-6c7040a38d6f)
 
+# Tareas de 1er Release en progreso en diferentes columnas
+Ahora ya tenemos las tareas de nuestra primera Release en el Sprint Backlog, es decir, tenemos la lista de tareas que debemos realizar en nuestro sprint. Simulando un flujo de trabajo normal las cogeremos y las llevaremos a los diferentes estados que tenemos previos a "Closed" como si de un proyecto real se tratara. Dicho todo esto, las tareas en progreso nos quedarían así:
+![image](https://github.com/user-attachments/assets/c6ade4ae-7608-4010-baad-03cf6d6fd41f)
 
-Hay más Tasks de las que se muestran en la imagen pero para hacernos una idea de como funcionan los filtros estas mismas no han sido representadas
-
-Me parece necesario indicar que estos filtros se comportan de manera acumulativa, es decir, podemos aplicar uno, dos o los que necesitemos. Por esto, es necesario estar atentos a la hora de filtrar nuestros resultados, ya que puede que al hacer demasiados filtros no logremos ver todos los resultados que desearíamos.
 
 
 
