@@ -87,6 +87,9 @@ Nos posicionamos en Zenhub y, en la barra superior, seleccionamos la Milestone c
 Ahora ya tenemos las tareas de nuestra primera Release en el Sprint Backlog, es decir, tenemos la lista de tareas que debemos realizar en nuestro sprint. Simulando un flujo de trabajo normal las cogeremos y las llevaremos a los diferentes estados que tenemos previos a "Closed" como si de un proyecto real se tratara. Dicho todo esto, las tareas en progreso nos quedarían así:
 ![image](https://github.com/user-attachments/assets/c6ade4ae-7608-4010-baad-03cf6d6fd41f)
 
+# Cierre de 1er Release
+Una vez realizadas y revisadas las tareas, las daremos por cerradas, concluyendo así la primera Release y quedando los issues de la siguiente manera:
+![image](https://github.com/user-attachments/assets/86017993-8f13-4639-82cf-ce44c2915c6f)
 
 
 
