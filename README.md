@@ -95,6 +95,10 @@ Las tareas están cerradas, pero a efectos organizativos, la Release no ha sido 
 Le daremos a "Close" y ahi si, nuestra primera Release estará cerrada oficialmente
 ![image](https://github.com/user-attachments/assets/5017739b-cce6-4659-84ea-e22cf39660b4)
 
+# Comienzo de la 2da Release
+Como antes, deberemos preparar nuestro sprint para llevarlo a cabo mediante la adición de nuestras tareas de la segunda Release al Sprint Backlog, que estará vacío ya que antes lo hemos vaciado sacando las tareas y llevandolas a diferentes estados "En progreso"
+![image](https://github.com/user-attachments/assets/641405a8-6de7-4635-ad9c-d8954984f4a5)
+
 
 
 
