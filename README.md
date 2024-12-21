@@ -89,6 +89,6 @@ Me parece necesario indicar que estos filtros se comportan de manera acumulativa
 
 
 # Integrantes del grupo:
-Aaron Del Santo Izquierdo
-Héctor Sánchez García
-Daniel Miguel Muiña
+Aaron Del Santo Izquierdo  
+Héctor Sánchez García  
+Daniel Miguel Muiña  
