@@ -62,17 +62,26 @@ En nuestro caso, se nos pide filtrar por Epics, User Stories y Tasks, las cuales
 
 Una vez aquí simplemente seleccionaremos cada uno para ver que efectivamente se produce el filtrado: 
 
+
+
 ### Filtrado por Epics
+
 ![image](https://github.com/user-attachments/assets/dc5b43c3-c424-415a-b709-d5c875977b0d)
+
+
 
 ### Filtrado por User Stories
 
 ![image](https://github.com/user-attachments/assets/7e72ac44-8f98-4463-82ac-68212206a678)
 
 
+
 ### Filtrado por Tasks
 
 ![image](https://github.com/user-attachments/assets/2a18c933-f30b-4b74-88c1-856a8b827cef)
+
+
+
 Hay más Tasks de las que se muestran en la imagen pero para hacernos una idea de como funcionan los filtros estas mismas no han sido representadas
 
 Me parece necesario indicar que estos filtros se comportan de manera acumulativa, es decir, podemos aplicar uno, dos o los que necesitemos. Por esto, es necesario estar atentos a la hora de filtrar nuestros resultados, ya que puede que al hacer demasiados filtros no logremos ver todos los resultados que desearíamos.
