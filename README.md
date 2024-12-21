@@ -99,6 +99,15 @@ Le daremos a "Close" y ahi si, nuestra primera Release estará cerrada oficialme
 Como antes, deberemos preparar nuestro sprint para llevarlo a cabo mediante la adición de nuestras tareas de la segunda Release al Sprint Backlog, que estará vacío ya que antes lo hemos vaciado sacando las tareas y llevandolas a diferentes estados "En progreso"
 ![image](https://github.com/user-attachments/assets/641405a8-6de7-4635-ad9c-d8954984f4a5)
 
+# Tareas de la 2da Release en progreso y filtradas por algún topic
+Una vez más, moveremos las tareas del Sprint Backlog a los diferentes estados para simular un trabajo normal en el proyecto. Nos quedaría tal que así:
+![image](https://github.com/user-attachments/assets/8946cb73-046f-47ca-99e3-49e385ce2793)
+Ahora, pasaríamos las tareas a Closed y cerrariamos la segunda Release como en los apartados anteriores.
+
+# Imagen de conversación en dos tareas
+
+
+
 
 
 
