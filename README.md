@@ -90,6 +90,11 @@ Ahora ya tenemos las tareas de nuestra primera Release en el Sprint Backlog, es 
 # Cierre de 1er Release
 Una vez realizadas y revisadas las tareas, las daremos por cerradas, concluyendo así la primera Release y quedando los issues de la siguiente manera:
 ![image](https://github.com/user-attachments/assets/86017993-8f13-4639-82cf-ce44c2915c6f)
+Las tareas están cerradas, pero a efectos organizativos, la Release no ha sido cerrada. Para ello, nos vamos a GitHub y, en el apartado de Milestones observaremos nuestra primera Release:
+![image](https://github.com/user-attachments/assets/615f4333-736a-484a-925c-736c4ea36324)
+Le daremos a "Close" y ahi si, nuestra primera Release estará cerrada oficialmente
+![image](https://github.com/user-attachments/assets/5017739b-cce6-4659-84ea-e22cf39660b4)
+
 
 
 
