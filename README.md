@@ -105,6 +105,13 @@ Una vez más, moveremos las tareas del Sprint Backlog a los diferentes estados p
 Ahora, pasaríamos las tareas a Closed y cerrariamos la segunda Release como en los apartados anteriores.
 
 # Imagen de conversación en dos tareas
+Aquí mostramos dos breves interacciones entre los desarrolladores por medio de los comentarios internos de un issue de la tercera Release:
+![image](https://github.com/user-attachments/assets/d8f901de-31c9-40c4-aaf4-8bbf9097cd9d)
+Vemos como Aaron ha manifestado tener un problema a la hora de implementar la tarea y Daniel le ha aportado documentación referente a su problema
+
+![image](https://github.com/user-attachments/assets/77d65e43-d117-4dfb-aabe-f08d47726086)
+Aquí vemos como Daniel ha preguntado una duda acerca de una implentación y tanto Héctor como Aarón le han contestado haciendo referencia a lo acordado en la Planificación del Sprint
+
 
 
 
